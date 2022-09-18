@@ -1,0 +1,59 @@
+#container1{
+	width: 850px;
+	border:1px solid gray;
+	height: 100px;
+	margin: 0 auto;
+	padding: 0px;
+	border: none;
+}
+
+h1 a{
+	font-size: 40px;
+	font-weight: 100px;
+	color: #861BBF;
+	text-decoration: none;
+	float: left;
+	padding: 5px 10px 0px 30px;
+}
+
+#searchbox{
+	float: right;
+	height: 30px;
+	position: center;
+	padding: 20px 15px 15px 10px;
+	background-color: pink;
+	margin: 0px 20px;
+}
+
+.text{
+	font-size: 15px;
+	color: brown;
+	background-image: url("Images/search.jpg");
+	background-repeat: no-repeat;
+	background-position: right;
+}
+
+.button{
+	color: white;
+	background-color: purple;
+	
+}
+
+#container2{
+	width: 850px;
+	height: 70px;
+	background-image: linear-gradient(orange,pink,green);
+	border: 1px solid gray;
+	margin: 0 auto;
+	padding: 0px;
+}
+
+#structure{
+	
+}
+
+h3 a{
+	margin: 7px 40px 7px 40px;
+	float: left;
+	width: 130px;
+}
