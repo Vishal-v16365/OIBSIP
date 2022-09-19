@@ -9,3 +9,21 @@
 #css {
 	background-color:blue;
 }
+
+.win {
+	height:60%;
+}
+
+.In {
+	background-color:red;
+	height:30vh;
+	width:50vw;
+	margin-bottom:20px;
+	font-size:1.5em;
+}
+
+.Out {
+	background-color:yellow;
+	height:60px;
+	width:200mm;
+}

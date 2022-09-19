@@ -50,16 +50,21 @@
 			<h1 style="color:red;">List of Highest Paid Jobs in 2021</h1>
 			<h3>By  - <i>Shaurya Sinha</i></h3>
 			<p style="color:blue;">April 22,2021</p>
-			<img src="mdnlogo.png" alt="mdn_logo"/>
+			<img class="win" src="Img.jpg" alt="Windows"/>
 			<p>This is the highest paid jobs in 2021.</p>
 			<ul>
 				<li class="odd">Data Analyst</li>
 				<li class="even">Full Stack Developer</li>
 				<li class="odd">Software Developement Engineer</li>
+				<li class="even">Data Analyst</li>
+				<li class="odd">Full Stack Developer</li>
+				<li class="even">Software Developement Engineer</li>
 			</ul>
 		</div>
-		<div>
-			<
+		<div class="Out">
+			<div class="In">
+				<p>This is a paragraph.</p>
+			</div>
 		</div>
 	</body>
 </html>
